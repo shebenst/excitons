@@ -1,0 +1,7 @@
+Itinerary:
+ 0) Play around with Tight Binding Approximation (TBA) module.
+ 1) Start with Tight Binding Approximation to get ideas behind conduction.
+ 2) Try to encode excitonic behavior.
+ 3) Profit.
+ 4) Try to encode biological disorder to take advantage of the combination of localization
+    and delocalization.
